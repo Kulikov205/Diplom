@@ -6,7 +6,15 @@ https://docs.google.com/document/d/1LYeXQX3_XT8BTSMCpcUhIqkFOlUVtoMT1rstrrlsPao/
 ---
 1. -[ ] Выбор темы: ПК
 2. -[ ] прибыль
-3. -[ ] Unity - яндекс игры(аркада, приключения, платформер, )
+3. -[ ] Unity - яндекс игры(приключения)
+
+Действия игры будет происходить на 3х локациях(лес)
 
 Программы в которых проходит разработка:
-Fl Studio, Ableton, a, Adobe Photoshop, Asiprite, Unity
+1. -[x] Unity
+2. -[ ] Asiprite
+3. -[x] Adobe Photoshop
+4. -[x] Fl Studio
+5. -[ ] Ableton
+
+---
