@@ -6,8 +6,7 @@ https://docs.google.com/document/d/1LYeXQX3_XT8BTSMCpcUhIqkFOlUVtoMT1rstrrlsPao/
 ---
 1. -[ ] Выбор темы: ПК
 2. -[ ] прибыль
-3. -[ ] 
-4. -[ ] Unity - яндекс игры(аркада, приключения, платформер, )
+3. -[ ] Unity - яндекс игры(аркада, приключения, платформер, )
 
 Программы в которых проходит разработка:
 Fl Studio, Ableton, a, Adobe Photoshop, Asiprite, Unity
