@@ -9,3 +9,5 @@ https://docs.google.com/document/d/1LYeXQX3_XT8BTSMCpcUhIqkFOlUVtoMT1rstrrlsPao/
 3. -[ ] 
 4. -[ ] Unity - яндекс игры(аркада, приключения, платформер, )
 
+Программы в которых проходит разработка:
+Fl Studio, Ableton, Wondershare Filmora, Adobe Photoshop, Asiprite, Adobe Premiere Pro, Unity
