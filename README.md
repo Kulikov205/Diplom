@@ -37,3 +37,6 @@ https://docs.google.com/document/d/1LYeXQX3_XT8BTSMCpcUhIqkFOlUVtoMT1rstrrlsPao/
 5. -[ ] Ableton
 
 ---
+
+Если игра не выйдет, перейду на Android прилодение
+---
