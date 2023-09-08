@@ -38,5 +38,5 @@ https://docs.google.com/document/d/1LYeXQX3_XT8BTSMCpcUhIqkFOlUVtoMT1rstrrlsPao/
 
 ---
 
-Если игра не выйдет, перейду на Android прилодение
+Если игра не выйдет, перейду на Android приложение
 ---
